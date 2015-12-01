@@ -1,5 +1,5 @@
 
-// I got help from the Learning Center at MCTC
+// I got help from Andre from the Learning Center at MCTC
 // working together with a tutor
 
 
